@@ -34,7 +34,7 @@ Ferramentas: Ajax, CSS
 - LINGUA ÍNGLESA (ASTRO LANGUAGE HOUSE) - Atualmente (13/03/2023) no nível B2 - Livro Evolve 5. Nível de inglês avançado.
 
 ## GitHub Stats
-[](https://github-readme-stats.vercel.app/api?guDutra=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guDutra)](https://github.com/anuraghazra/github-readme-stats)
 ## Contato
 - LinkedIn (https://www.linkedin.com/in/gustavo-d-26a57a232/))
 - Email: gudutra05@outlook.com
